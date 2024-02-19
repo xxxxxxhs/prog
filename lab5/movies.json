@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "a",
+    "coordinates": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "creationDate": "2024-02-11T15:02:17.949747",
+    "oscarsCount": 1,
+    "goldenPalmCount": 1,
+    "totalBoxOffice": 1.0,
+    "mpaaRating": "G",
+    "screenwriter": {
+      "name": "dwdw",
+      "passportID": "ww",
+      "eyeColor": "BLACK",
+      "hairColor": "BLACK",
+      "location": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2,
+        "name": "2"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "b",
+    "coordinates": {
+      "x": 1.0,
+      "y": 5.0
+    },
+    "creationDate": "2024-02-11T15:02:17.949957",
+    "oscarsCount": 5,
+    "goldenPalmCount": 8,
+    "totalBoxOffice": 25.0,
+    "mpaaRating": "PG_13",
+    "screenwriter": {
+      "name": "Vasyan",
+      "passportID": "666",
+      "eyeColor": "YELLOW",
+      "hairColor": "YELLOW",
+      "location": {
+        "x": 1.0,
+        "y": 3.0,
+        "z": 2,
+        "name": "spb"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "doom",
+    "coordinates": {
+      "x": 4.0,
+      "y": 7.0
+    },
+    "creationDate": "2024-02-14T00:07:53.97636",
+    "oscarsCount": 6,
+    "goldenPalmCount": 9,
+    "totalBoxOffice": 900.0,
+    "mpaaRating": "R",
+    "screenwriter": {
+      "name": "roma",
+      "passportID": "228",
+      "eyeColor": "BLACK",
+      "hairColor": "BLACK",
+      "location": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2,
+        "name": "hood"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "sky",
+    "coordinates": {
+      "x": 55.0,
+      "y": 33.0
+    },
+    "creationDate": "2024-02-15T23:37:19.588569",
+    "oscarsCount": 5,
+    "goldenPalmCount": 4,
+    "totalBoxOffice": 700.0,
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "sanya",
+      "passportID": "123",
+      "eyeColor": "RED",
+      "hairColor": "RED",
+      "location": {
+        "x": 33.0,
+        "y": 55.0,
+        "z": 77,
+        "name": "dsfs"
+      }
+    }
+  }
+]
